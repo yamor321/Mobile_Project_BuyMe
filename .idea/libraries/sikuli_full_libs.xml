@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sikuli-full-libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/sikuli-full-libs" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/sikuli-full-libs" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/sikuli-full-libs" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+	<PACKA>appPackage</PACKA>
+	<PACKB>il.co.mintapp.buyme</PACKB>
+	<ACTA>appActivity</ACTA>
+	<ACTB>il.co.mintapp.buyme.activities.common.SplashScreen</ACTB>
+</Data>
